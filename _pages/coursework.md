@@ -7,6 +7,7 @@ author_profile: true
 
 ## Computer Science
 
+* CS 194-172*: Computational Methods in Medicine & Genomics
 * CS 189: Machine Learning ([Cheat Sheet](/files/189%20MT%20+%20Final%20Cheatsheets.pdf))
 * EECS 127: Optimisation Models in Engineering
 * DATA 100: Principles of Data Science
@@ -26,16 +27,21 @@ author_profile: true
 * LING 252: Computational Linguistics (graduate)
 * LING C146: Language Acquisition
 * LING 100: Introduction to Linguistic Science
+* LING 110*: Phonetics
 
 ## Neuroscience & Biology
 
+* MCB 132*: Biology of Human Cancer
 * MCB 153: Molecular Medicine
-* COGSCI 131: Computational Cognition
+* COGSCI 131: Computational Models of Cognition
 * COGSCI 1B: Introduction to Cognitive Science
 * MCB 38: Stem Cell Biology & Ethics
 
 ## Miscellanous
 
+* HISTART 10: Western Art: Ancient to Medieval
 * MUSIC 139: Music of India
 * MUSIC 26AC: Music in American Culture
-* HISTART 10: Western Art: Ancient to Medieval
+* French 80*: Cultural History of Paris
+
+\* Currently taking
